@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+   font-size: 25px;
+   color: black;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    background: black;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.Mercedes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#okurmen{
+    background: url(./img/Без\ названия.jpg)no-repeat center/cover fixed;
+    min-width: 100vh;
+    min-height: 90vh;
+
+}
+.block{
+    width: 300px;
+    height:500px;
+    background: rgba(0, 0, 0, 0.425);
+    color: aliceblue;
+    text-align: center;
+}
+.block:hover{
+    background: blue;
+    color: blueviolet;
+}
+.okurmen2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.nur{
+    border-radius: 5px 10px 5px ;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    
+<header id="Mercedes">
+    <div class="container">
+        <div class="Mercedes">
+            <img src="./img/images.png" alt=""width="200px">
+            <a href="">главная</a>
+            <a href="">каталог</a>
+            <a href="">контакт</a>
+            <button class="nur">купить</button>
+
+
+        </div>
+    </div>
+</header>
+<section id="okurmen">
+    <div class="container">
+        <div class="okurmen2">
+
+            <div class="block">
+                <img src="./img/Без названия (1).jpg" alt="" width="100px"> 
+                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, quidem.</h2>
+                <button style="background: white color(srgb red green blue);">exit</button>
+
+            </div>
+
+
+            
+            
+
+
+
+
+            
+
+
+                
+
+
+
+            
+
+        </div>
+    </div>
+</section>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus labore quaerat facilis ea quae eveniet quam laboriosam cumque qui aut, ullam itaque doloremque autem aspernatur vitae sit, a eius commodi quis reiciendis voluptatem nam repudiandae necessitatibus quos? Voluptates, accusamus atque laudantium necessitatibus quos facere molestias quia. Nisi corrupti modi mollitia excepturi expedita! Accusamus quae reiciendis tempora, ad nam, quas maxime vero quis adipisci totam repellendus cupiditate amet dolorum maiores dicta, fugit porro? Nostrum laborum sequi nisi, quos aut excepturi perspiciatis molestias placeat nemo voluptatum eos repudiandae? Magni eveniet veritatis labore illum placeat consectetur, vel ut ab fuga quas aut harum.</p>
+
+</body>
+</html>

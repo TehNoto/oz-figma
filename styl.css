@@ -1,0 +1,15 @@
+body{
+    background: white;
+}
+.sao2{
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    padding-top: -50;
+}
+.dre{
+    width: 400px;
+    height: 400px;
+}
